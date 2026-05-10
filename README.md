@@ -1,6 +1,6 @@
-# Supply Chain Metrics Automation Framework
+# AI Supply Chain Forecasting
 
-An AI-powered analytics workspace that automates weekly business review (WBR) generation for supply chain metrics. Built with Python, Claude Code, and Obsidian.
+An AI-powered forecasting and analytics framework for supply chain metrics. Automates forecast tracking, variance decomposition, and business review generation across short-term (weekly), mid-term (quarterly), and long-term (3-year) horizons. Built with Python, Claude Code, and Obsidian.
 
 ## What It Does
 
