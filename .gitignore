@@ -1,0 +1,17 @@
+# Data (never commit actuals)
+vault/Data/
+*.csv
+/tmp/
+
+# Credentials
+.env
+.aws/
+*.pem
+
+# OS
+.DS_Store
+__pycache__/
+*.pyc
+
+# Obsidian
+.obsidian/
